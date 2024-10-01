@@ -24,7 +24,7 @@ professional experience in the graphic design industry.
 
 # Skills & Language
 
-# **Skills:**
+## **Skills:**
 
 - Algorithms & Data Structures, Software Engineering, Test-driven
   Development, Full-stack Programming, Database, Machine Learning.
@@ -33,11 +33,11 @@ professional experience in the graphic design industry.
 
 - Graphic Design, Motion Graphic Design.
 
-# **Programming Languages:** 
+## **Programming Languages:** 
 
 - C, C++, C#, Java, Python, ANTLR, SQL, HTML, CSS, JavaScript.
 
-# **Tools & Technologies**
+## **Tools & Technologies**
 
 - **Web Development**: React, Three.js, WebGL, React Three Fiber,
   Tailwind CSS, Shadcn/ui, Redux, Qt6, GSA.
@@ -127,17 +127,13 @@ professional experience in the graphic design industry.
 
 # Experience
 
-## Motion Graphic Designer/ Graphic Designer
-
-## Edmonds College, Wa 2021 - 2023
+## Motion Graphic Designer/ Graphic Designer Edmonds College, Wa 2021 - 2023
 
 - Designed and led advertisement campaigns of student, faculty, and
   local events in the community using Adobe Illustrator, Photoshop, and
   After Effect.
 
-## Newsletter Editor On Graphic Designer/ Graphic Designer
-
-## Edmonds College, Wa 2023 - 2024
+## Newsletter Editor On Graphic Designer/ Graphic Designer Bellevue College, Wa 2023 - 2024
 
 - Designed and edited newsletters for the Computer Science Department,
   and Computer Science Advisory Board
