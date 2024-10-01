@@ -1,5 +1,3 @@
-# Ryan Nguyen
-
 - Website: <https://ryannguyen.dev/>
 
 - LinkedIn: <https://www.linkedin.com/in/hung-nguyen-dev/>

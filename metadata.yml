@@ -7,7 +7,7 @@ header-includes:
   - \linespread{0.8}
   - \usepackage{titlesec}
   - \definecolor{customGreen}{HTML}{228B22}
-    - \definecolor{customGreenNew}{HTML}{228Bff}
+  - \definecolor{customGreenNew}{HTML}{228Bff}
   - \titleformat{\title}{\color{customGreenNew}\normalfont\LARGE\bfseries}{\thesection}{1em}{}
   - \titleformat{\section}{\color{customGreen}\normalfont\Large\bfseries}{\thesection}{1em}{}
 ---
