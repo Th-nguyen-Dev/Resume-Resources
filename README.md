@@ -4,15 +4,15 @@
 
 Layout table
 
-Website: <https://ryannguyen.dev/>
+- Website: <https://ryannguyen.dev/>
 
-LinkedIn: <https://www.linkedin.com/in/hung-nguyen-dev/>
+- LinkedIn: <https://www.linkedin.com/in/hung-nguyen-dev/>
 
-GitHub: <https://github.com/Th-nguyen-Dev>
+- GitHub: <https://github.com/Th-nguyen-Dev>
 
-Behance: <https://www.behance.net/ryannguyen35>
+- Behance: <https://www.behance.net/ryannguyen35>
 
-Email: th.nguyen.developer@gmail.com
+- Email: th.nguyen.developer@gmail.com
 
 # Profile
 
@@ -35,7 +35,7 @@ professional experience in the graphic design industry.
 
 # **Programming Languages:** 
 
-# **C, C++, C#, Java, Python, ANTLR, SQL, HTML, CSS, JavaScript.**
+- C, C++, C#, Java, Python, ANTLR, SQL, HTML, CSS, JavaScript.
 
 # **Tools & Technologies**
 
@@ -59,10 +59,8 @@ professional experience in the graphic design industry.
 </colgroup>
 <thead>
 <tr>
-<th><h2 id="aa-in-computer-science" class="unnumbered">AA in Computer
-SciencE</h2></th>
-<th><h2 id="bs-in-computer-science" class="unnumbered">BS in Computer
-Science</h2></th>
+<th><h2 id="aa-in-computer-science">AA in Computer Science</h2></th>
+<th><h2 id="bs-in-computer-science">BS in Computer Science</h2></th>
 </tr>
 </thead>
 <tbody>
@@ -75,7 +73,7 @@ Science</h2></th>
 
 # Project
 
-> **PORTFOLIO WEBSITE WITH THREE.JS INTERGRATION**
+## Portfolio Website With Three.Js Intergration
 
 - Created an interactive, responsive, and realistic 3D Earth using React
   Three Fiber, and custom WebGL shaders.
@@ -86,7 +84,7 @@ Science</h2></th>
 - Maintained a modular design principle with the help of Redux and React
   Components.
 
-> **TURN-BASED ROLE-PLAYING GAME COMBAT SYSTEM IN 3D UNITY**
+## Turn-Based Role-Playing Game Combat System In 3d Unity
 
 - Created an extendable, generalized, and modularized turn-based combat
   system for a limitless number of entities.
@@ -94,14 +92,14 @@ Science</h2></th>
 - Applied realistic lighting, volumetric fogs, and wind simulation to
   enhance immersion for the playable scene.
 
-## Disease and Control Simulation on a Fixed Population
+## Disease And Control Simulation On A Fixed Population
 
 - Created a 2D Simulation of a dynamically behaved population undergoing
   a pandemic with a heavy use of inheritance and polymorphism with C++.
 
 - Added real-time visualization with QT Creator graphical libraries.
 
-## Visualization of Dijkstra’s Algorithm on Customizable Maps with GUI and Storage Implementation 
+## Visualization Of Dijkstra’s Algorithm On Customizable Maps With Gui And Storage Implementation 
 
 - Designed and coded a real-time visualization of Dijkstra’s
   path-finding algorithm on a user-made nodes map.
@@ -111,14 +109,14 @@ Science</h2></th>
 
 - Implemented a save/load system to store user’s custom-made map.
 
-## Sudoku Solver with Multithread Integration
+## Sudoku Solver With Multithread Integration
 
 - Sudoku Solver using Depth-First Search method. The project applied
   various complex data structure for fast look up time, and performance
   optimization. Currently integrating multithread for faster permutation
   traversal.
 
-## Reverse Polish Calculator with ANTLR integration
+## Reverse Polish Calculator With Antlr Integration
 
 - Applied ANTLR (Another Tool for Language Recognition) as a parser. Use
   context-free grammar to break down infix expression into postfix
@@ -131,15 +129,15 @@ Science</h2></th>
 
 ## Motion Graphic Designer/ Graphic Designer
 
-## Edmonds College, WA 2021 - 2023
+## Edmonds College, Wa 2021 - 2023
 
 - Designed and led advertisement campaigns of student, faculty, and
   local events in the community using Adobe Illustrator, Photoshop, and
   After Effect.
 
-## newsletter EDITOR on Graphic Designer/ Graphic Designer
+## Newsletter Editor On Graphic Designer/ Graphic Designer
 
-## Edmonds College, WA 2023 - 2024
+## Edmonds College, Wa 2023 - 2024
 
 - Designed and edited newsletters for the Computer Science Department,
   and Computer Science Advisory Board
