@@ -75,7 +75,7 @@ Science</h2></th>
 
 # Project
 
-**PORTFOLIO WEBSITE WITH THREE.JS INTERGRATION**
+> **PORTFOLIO WEBSITE WITH THREE.JS INTERGRATION**
 
 - Created an interactive, responsive, and realistic 3D Earth using React
   Three Fiber, and custom WebGL shaders.
@@ -86,7 +86,7 @@ Science</h2></th>
 - Maintained a modular design principle with the help of Redux and React
   Components.
 
-**TURN-BASED ROLE-PLAYING GAME COMBAT SYSTEM IN 3D UNITY**
+> **TURN-BASED ROLE-PLAYING GAME COMBAT SYSTEM IN 3D UNITY**
 
 - Created an extendable, generalized, and modularized turn-based combat
   system for a limitless number of entities.
@@ -142,6 +142,4 @@ Science</h2></th>
 ## Edmonds College, WA 2023 - 2024
 
 - Designed and edited newsletters for the Computer Science Department,
-  and Computer Science
-
-  Advisory Board
+  and Computer Science Advisory Board
