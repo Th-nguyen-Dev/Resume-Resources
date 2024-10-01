@@ -48,24 +48,9 @@ professional experience in the graphic design industry.
 
 # Education
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th><h2 id="aa-in-computer-science">AA in Computer Science</h2></th>
-<th><h2 id="bs-in-computer-science">BS in Computer Science</h2></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Edmonds College | Washington | 2020 – 2023</td>
-<td>Bellevue College | Washington |2023 - 2025</td>
-</tr>
-</tbody>
-</table>
+| **AA in Computer Science** | **BS in Computer Science** |
+|----|----|
+| Edmonds College \| Washington \| 2020 – 2023 | Bellevue College \| Washington \| 2023 - 2025 |
 
 # Project
 
