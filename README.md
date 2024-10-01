@@ -20,20 +20,27 @@ My name is Ryan Nguyen, and I am an international student with a passion
 for all things related to digital arts and computer science. I have
 in-depth experience in Web Design, UI/UX Design, Full-Stack Design, Game
 Design, and Graphical Programing. Additionally, I have over two years of
-professional experience in the graphic design industry.  
-  
-Test Test Test Again
+professional experience in the graphic design industry.
 
 # Skills & Language
 
-# **Skills: Algorithms & Data Structures, Database Management, Software Engineering, UI/UX Design, Full-stack Programming, Graphic Programming, Machine Learning, Test-driven Development, Graphic Design, Motion Graphic Design.**
+# **Skills:**
 
-# **Programming Languages: C, C++, C#, Java, Python, ANTLR, SQL, HTML, CSS, JavaScript**
+- Algorithms & Data Structures, Software Engineering, Test-driven
+  Development, Full-stack Programming, Database, Machine Learning.
+
+- Graphic Programming, UI/UX Design.
+
+- Graphic Design, Motion Graphic Design.
+
+# **Programming Languages:** 
+
+# **C, C++, C#, Java, Python, ANTLR, SQL, HTML, CSS, JavaScript.**
 
 # **Tools & Technologies**
 
 - **Web Development**: React, Three.js, WebGL, React Three Fiber,
-  Tailwind CSS, Shadcn/ui, Redux, Qt6, GSA
+  Tailwind CSS, Shadcn/ui, Redux, Qt6, GSA.
 
 - **Build Tools**: Gradle, Maven, Vite, Cmake.
 
@@ -52,8 +59,10 @@ Test Test Test Again
 </colgroup>
 <thead>
 <tr>
-<th><h2 id="aa-in-computer-science">AA in Computer SciencE</h2></th>
-<th><h2 id="bs-in-computer-science">BS in Computer Science</h2></th>
+<th><h2 id="aa-in-computer-science" class="unnumbered">AA in Computer
+SciencE</h2></th>
+<th><h2 id="bs-in-computer-science" class="unnumbered">BS in Computer
+Science</h2></th>
 </tr>
 </thead>
 <tbody>
@@ -136,9 +145,3 @@ Test Test Test Again
   and Computer Science
 
   Advisory Board
-
-|     |     |
-|-----|-----|
-|     |     |
-
-Layout table
