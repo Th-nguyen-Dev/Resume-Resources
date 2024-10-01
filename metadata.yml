@@ -2,6 +2,11 @@
 header-includes:
   - \usepackage{geometry}
   - \usepackage{setspace}
+  - \usepackage{xcolor}
   - \geometry{top=2.54cm, bottom=2.54cm, left=2.54cm, right=2.54cm}
-  - \linespread{0.5}
+  - \linespread{0.8}
+  - \usepackage{titlesec}
+  - \titleformat{\title}{\color{green}\normalfont\LARGE\bfseries}{\thesection}{1em}{}
+  - \titleformat{\section}{\color{green}\normalfont\Large\bfseries}{\thesection}{1em}{}
+  - \titleformat{\subsection}{\color{green}\normalfont\large\bfseries}{\thesubsection}{1em}{}
 ---
