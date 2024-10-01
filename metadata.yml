@@ -2,6 +2,6 @@
 header-includes:
   - \usepackage{geometry}
   - \usepackage{setspace}
-  - \geometry{top=2.54cm, bottom=2.54cm, left=2.54cm, right=2.54cm}
-  - \linespread{0.8}
+  - \geometry{top=1.27cm, bottom=1.27cm, left=1.27cm, right=1.27cm}
+  - \linespread{1.0}
 ---
