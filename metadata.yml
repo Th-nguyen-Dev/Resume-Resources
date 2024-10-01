@@ -6,6 +6,7 @@ header-includes:
   - \geometry{top=2.54cm, bottom=2.54cm, left=2.54cm, right=2.54cm}
   - \linespread{0.8}
   - \usepackage{titlesec}
-  - \titleformat{\title}{\color{#228B22}\normalfont\LARGE\bfseries}{}{1em}{}
-  - \titleformat{\section}{\color{#228B22}\normalfont\Large\bfseries}{\thesection}{1em}{
+  - \definecolor{customGreen}{HTML}{228B22}
+  - \titleformat{\title}{\color{customGreen}\normalfont\LARGE\bfseries}{\thesection}{1em}{}
+  - \titleformat{\section}{\color{customGreen}\normalfont\Large\bfseries}{\thesection}{1em}{}
 ---
