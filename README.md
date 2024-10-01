@@ -1,9 +1,3 @@
-|             |
-|-------------|
-| Ryan Nguyen |
-
-Layout table
-
 - Website: <https://ryannguyen.dev/>
 
 - LinkedIn: <https://www.linkedin.com/in/hung-nguyen-dev/>
@@ -127,13 +121,17 @@ professional experience in the graphic design industry.
 
 # Experience
 
-## Motion Graphic Designer/ Graphic Designer Edmonds College, Wa 2021 - 2023
+## Motion Graphic Designer/ Graphic Designer
+
+Edmonds College, Wa 2021 - 2023
 
 - Designed and led advertisement campaigns of student, faculty, and
   local events in the community using Adobe Illustrator, Photoshop, and
   After Effect.
 
-## Newsletter Editor On Graphic Designer/ Graphic Designer Bellevue College, Wa 2023 - 2024
+## Newsletter Editor On Graphic Designer/ Graphic Designer
+
+Edmonds College, Wa 2023 - 2024
 
 - Designed and edited newsletters for the Computer Science Department,
   and Computer Science Advisory Board
