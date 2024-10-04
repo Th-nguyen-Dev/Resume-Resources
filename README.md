@@ -23,7 +23,8 @@ professional experience in the graphic design industry.
 ## **Skills:**
 
 - Algorithms & Data Structures, Software Engineering, Test-driven
-  Development, Full-stack Programming, Database, Machine Learning.
+  Development, Full-stack Programming, Database, Machine Learning,
+  Networking.
 
 - Graphic Programming, UI/UX Design.
 
