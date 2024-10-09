@@ -16,9 +16,7 @@ My name is Ryan Nguyen, and I am an international student with a passion
 for all things related to digital arts and computer science. I have
 in-depth experience in Web Design, UI/UX Design, Full-Stack Design, Game
 Design, and Graphical Programing. Additionally, I have over two years of
-professional experience in the graphic design industry.  
-  
-Josh is watching me
+professional experience in the graphic design industry.
 
 # Skills & Language
 
