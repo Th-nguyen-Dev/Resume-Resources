@@ -22,24 +22,20 @@ href="https://www.linkedin.com/in/hung-nguyen-dev/"><strong>LinkedIn</strong></a
 href="https://www.behance.net/ryannguyen35"><strong>Behance</strong></a></td>
 </tr>
 <tr>
-<td colspan="4" style="text-align: center;"></td>
-</tr>
-<tr>
 <td colspan="3" rowspan="2" style="text-align: center;"><p>My name is
 Ryan Nguyen, and I am an international student with a passion for all
 things related to digital arts and computer science. I have in-depth
 experience in Web Design, UI/UX Design, Full-Stack Design, Game Design,
 and Graphical Programing. Additionally, I have over two years of
 professional experience in the graphic design industry.</p>
+<h1 id="project">Project</h1>
 <h2 id="portfolio-website-with-three.js-intergration">Portfolio Website
 With Three.Js Intergration</h2>
 <ul>
 <li><p>Created an interactive, responsive, and realistic 3D Earth using
 React Three Fiber, and custom WebGL shaders.</p></li>
-<li><p>Created an intuitive, and smooth User Interface with Shadcn/ui,
-React, GSAP, and Tailwind.</p></li>
-<li><p>Maintained a modular design principle with the help of Redux and
-React Components.</p></li>
+<li><p>Created an intuitive, modular and smooth User Interface with
+Shadcn/ui, React, GSAP, Tailwind, and Redux.</p></li>
 </ul>
 <h2
 id="turn-based-role-playing-game-combat-system-in-3d-unity">Turn-Based
@@ -71,27 +67,17 @@ libraries.</p></li>
 <li><p>Implemented a save/load system to store user’s custom-made
 map.</p></li>
 </ul>
-<h2 id="sudoku-solver-with-multithread-integration">Sudoku Solver With
-Multithread Integration</h2>
-<ul>
-<li><p>Sudoku Solver using Depth-First Search method. The project
-applied various complex data structure for fast look up time, and
-performance optimization. Currently integrating multithread for faster
-permutation traversal.</p></li>
-</ul>
 <h2 id="reverse-polish-calculator-with-antlr-integration">Reverse Polish
 Calculator With Antlr Integration</h2>
 <ul>
 <li><p>Applied ANTLR (Another Tool for Language Recognition) as a
 parser. Use context-free grammar to break down infix expression into
 postfix expression. Use Gradle as a Java build tool.</p></li>
-<li><p>Added multi-system capabilities with Gradle as build tool and
-Java as language.</p></li>
 </ul>
 <h1 id="experience">Experience</h1>
 <h2 id="motion-graphic-designer-graphic-designer">Motion Graphic
 Designer/ Graphic Designer</h2>
-<p>Edmonds College, Wa 2021 - 2023</p>
+<p>Edmonds College, WA 2021 – 2023</p>
 <ul>
 <li><p>Designed and led advertisement campaigns of student, faculty, and
 local events in the community using Adobe Illustrator, Photoshop, and
@@ -100,34 +86,34 @@ After Effect.</p></li>
 <h2
 id="newsletter-editor-on-graphic-designer-graphic-designer">Newsletter
 Editor On Graphic Designer/ Graphic Designer</h2>
-<p>Edmonds College, Wa 2023 - 2024</p>
+<p>Bellevue College, WA 2023 – 2024</p>
 <ul>
 <li><p>Designed and edited newsletters for the Computer Science
-Department, and Computer Science Advisory Board</p></li>
+Department, and Computer Science Student Advisory Board.</p></li>
 </ul></td>
-<td style="text-align: center;"><p>Education<br />
+<td style="text-align: center;"><p><strong>Education</strong><br />
 <br />
 AA in Computer Science</p>
-<p>Edmonds College | Washington | 2020 – 2023<br />
+<p>Edmonds College</p>
+<p>WA | 2020 – 2023<br />
 <br />
 BS in Computer Science</p>
-<p>Bellevue College | Washington | 2023 - 2025</p></td>
+<p>Bellevue College</p>
+<p>WA | 2023 - 2025</p></td>
 </tr>
 <tr>
-<td style="text-align: center;"><p>Skills</p>
+<td style="text-align: center;"><h1 id="skills">Skills</h1>
 <p>Algorithms &amp; Data Structures, Software Engineering, Test-driven
 Development, Full-stack Programming, Database, Machine Learning,
 Networking.</p>
 <p>Graphic Programming, UI/UX Design.</p>
 <p>Graphic Design, Motion Graphic Design.</p>
-<p>PROGRAMMING LANGUAGES:</p>
+<h1 id="languages">Languages</h1>
 <p>C, C++, C#, Java, Python, ANTLR, SQL, HTML, CSS, JavaScript.</p>
-<p>TOOLS &amp; TECHNOLOGIES</p>
+<h1 id="framework">Framework</h1>
 <p>Web Development: React, Three.js, WebGL, React Three Fiber, Tailwind
 CSS, Shadcn/ui, Redux, Qt6, GSA.</p>
-<p>Build Tools: Gradle, Maven, Vite, Cmake.</p>
-<p>IDEs &amp; Editors: VS Code, IntelliJ, Visual Studio, MySQL, QT
-Creator, Unity Editor.</p>
+<p>Build Tools: Gradle, Maven, Vite, Cmake, Unity</p>
 <p>Design Tools: Adobe Photoshop, Lightroom, Illustrator, After Effect,
 Premiere.</p></td>
 </tr>
