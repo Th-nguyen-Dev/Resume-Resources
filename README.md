@@ -1,7 +1,7 @@
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
 <col style="width: 25%" />
 <col style="width: 25%" />
 </colgroup>
@@ -90,7 +90,7 @@ Editor On Graphic Designer/ Graphic Designer</h2>
 <p>Bellevue College, WA 2023 – 2024</p>
 <ul>
 <li><p>Designed and edited newsletters for the Computer Science
-Department, and Computer Science Student Advisory Board.</p></li>
+Department, and Computer Science Student Advisory Board</p></li>
 </ul></td>
 <td style="text-align: center;"><h1 id="education">Education</h1>
 <p>AA in Computer Science</p>
