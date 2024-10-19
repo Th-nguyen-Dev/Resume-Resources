@@ -92,7 +92,7 @@ Editor On Graphic Designer/ Graphic Designer</h2>
 <li><p>Designed and edited newsletters for the Computer Science
 Department, and Computer Science Student Advisory Board.</p></li>
 </ul></td>
-<td style="text-align: center;"><p><strong>Education</strong></p>
+<td style="text-align: center;"><h1 id="education">Education</h1>
 <p>AA in Computer Science</p>
 <p>Edmonds College</p>
 <p>WA | 2020 – 2023<br />
