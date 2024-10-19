@@ -7,7 +7,8 @@
 </colgroup>
 <thead>
 <tr>
-<th colspan="4" style="text-align: center;">RYAN NGUYEN</th>
+<th colspan="4" style="text-align: center;"><h1 id="ryan-nguyen">RYAN
+NGUYEN</h1></th>
 </tr>
 </thead>
 <tbody>
