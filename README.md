@@ -12,14 +12,14 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;"><a
-href="https://ryannguyen.dev/"><strong>Website</strong></a></td>
-<td style="text-align: center;"><a
-href="https://github.com/Th-nguyen-Dev"><strong>GitHub</strong></a></td>
-<td style="text-align: center;"><a
-href="https://www.linkedin.com/in/hung-nguyen-dev/"><strong>LinkedIn</strong></a></td>
-<td style="text-align: center;"><a
-href="https://www.behance.net/ryannguyen35"><strong>Behance</strong></a></td>
+<td style="text-align: center;"><h1 id="website"><a
+href="https://ryannguyen.dev/">Website</a></h1></td>
+<td style="text-align: center;"><h1 id="github"><a
+href="https://github.com/Th-nguyen-Dev">GitHub</a></h1></td>
+<td style="text-align: center;"><h1 id="linkedin"><a
+href="https://www.linkedin.com/in/hung-nguyen-dev/">LinkedIn</a></h1></td>
+<td style="text-align: center;"><h1 id="behance"><a
+href="https://www.behance.net/ryannguyen35">Behance</a></h1></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2" style="text-align: center;"><p>My name is
