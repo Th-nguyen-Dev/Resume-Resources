@@ -22,6 +22,9 @@ href="https://www.linkedin.com/in/hung-nguyen-dev/"><strong>LinkedIn</strong></a
 href="https://www.behance.net/ryannguyen35"><strong>Behance</strong></a></td>
 </tr>
 <tr>
+<td colspan="4" style="text-align: center;"></td>
+</tr>
+<tr>
 <td colspan="3" rowspan="2" style="text-align: center;"><p>My name is
 Ryan Nguyen, and I am an international student with a passion for all
 things related to digital arts and computer science. I have in-depth
