@@ -1,7 +1,7 @@
 <table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 24%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 <col style="width: 25%" />
 <col style="width: 25%" />
 </colgroup>
